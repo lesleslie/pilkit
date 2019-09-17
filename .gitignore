@@ -8,3 +8,5 @@ MANIFEST
 build
 dist
 /venv/
+.idea
+.cache
